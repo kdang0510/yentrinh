@@ -12,7 +12,19 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>151cced8-8e4e-4412-b558-61d72e348a68</testSuiteGuid>
    <testCaseLink>
-      <guid>4c8093d6-3e6b-4f40-8e95-0c06450c5988</guid>
+      <guid>f3bfce3e-c9e6-485c-8c5e-fa2b0b1101a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c9754438-e7f5-420d-a733-deb613bc624a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/New Test Case (1)</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6198c7f0-c7c4-4d20-88ca-be7f28bc67ae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/New Test Case (2)</testCaseId>
